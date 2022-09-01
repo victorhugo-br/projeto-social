@@ -31,9 +31,9 @@ section#telefone {
     transform: translate(-50%, -50%);
 
 
-    height: 627px;
-    width: 311px;
+    height: 566px;
+    width: 266px;
     background-color: blue;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/frame-iphone2.png') no-repeat ;
     
 }
