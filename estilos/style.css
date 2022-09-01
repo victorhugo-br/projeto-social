@@ -33,7 +33,15 @@ section#telefone {
 
     height: 566px;
     width: 266px;
-    background-color: blue;
+    background-color: rgb(77, 255, 0);
     background: url('../imagens/frame-iphone2.png') no-repeat ;
     
+}
+
+iframe#tela {
+    position: relative;
+    top: 68px;
+    left: 19px;
+    width: 228px;
+    height: 403px;
 }
